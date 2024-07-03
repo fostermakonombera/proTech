@@ -76,7 +76,7 @@ padding:30px;
 margin:auto;
   color:black;
 border: 10px solid white;
-width:500px;
+width:50%;
 float:center;}
 .contact{
   background-color:rgba(217, 217, 217, 1);
@@ -84,7 +84,7 @@ padding:30px;
 margin:auto;
   color:black;
 border: 10px solid white;
-width:500px;
+width:50%;
 float:center;}
 .education{
   background-color:rgba(217, 217, 217, 1);
@@ -92,14 +92,14 @@ padding:30px;
 margin:auto;
   color:black;
 border: 10px solid white;
-width:500px;
+width:50%;
 float:center;}
 .skills{
 padding:30px;
 margin:auto;
   color:white;
 border: 10px solid grey;
-width:500px;
+width:50%;
 float:center;}
 
 /* Media Queries for Smaller Screens */
