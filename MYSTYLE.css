@@ -46,6 +46,7 @@ h1{
         background-color:rgba(3, 6, 22, 1);
         color:white;
         width:75%;
+    text-align:center;
         }
   .row:after{
         content:"";
