@@ -54,12 +54,12 @@ h1{
   flex: 1; /* Make sections take up equal space */
   text-align: center;
   padding: 50px;
-  background-color: #f1f1f1;
+  background-color:rgba(3, 6, 22, 1);
 }
 
-/*.page:first-child { /* Style the first section (home) differently */
+.page:first-child { /* Style the first section (home) differently */
   background-color: rgba(3, 6, 22, 1);
-color:white;*/
+color:white;
 }
 
 /* Scroll Button Styles */
@@ -99,6 +99,6 @@ float:center;}
 
 /* Media Queries for Smaller Screens */
 @media only screen and (max-width: 768px) {
-  .1 {
+  .h1 {
     text-align: center;
   }
