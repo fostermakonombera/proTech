@@ -46,6 +46,7 @@ h1{
         background-color:rgba(3, 6, 22, 1);
         color:white;
         width:75%;
+    height:auto;
     text-align:center;
         }
   .row:after{
@@ -63,7 +64,7 @@ h1{
 /* Scroll Button Styles */
 .scroll-down {
   display: inline-block;
-  padding: 10px 20px;
+  padding: 20px 30px;
   background-color: green;
   color: white;
   border: none;
