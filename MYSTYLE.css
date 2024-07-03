@@ -96,3 +96,9 @@ margin:auto;
 border: 10px solid grey;
 width:500px;
 float:center;}
+
+/* Media Queries for Smaller Screens */
+@media only screen and (max-width: 768px) {
+  .1 {
+    text-align: center;
+  }
