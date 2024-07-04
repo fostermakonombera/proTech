@@ -56,7 +56,7 @@ h1{
 .page {
   flex: 1; /* Make sections take up equal space */
   text-align: center;
-  padding: 50px;
+  padding: 0px;
   background-color:rgba(3, 6, 22, 1);
 }
 
